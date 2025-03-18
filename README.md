@@ -2,7 +2,7 @@
 
 - Exists
 - Born 2008
-- JavaScript, C, C#, some Python and Go, Scratch :)
+- JavaScript, C, C#, Zig, some Python and Go, Scratch :)
 - Interested in low-level development (computer architecture, operating systems, embedded) and graphics programming (OpenGL)
 - [Website](https://thecoder08.github.io)
 - Developing an indie platform game called [ThroBots](https://github.com/2squaredstudios/throbots) with [WHERES-HARRY](https://github.com/WHERES-HARRY) (has somewhat been abandoned)
